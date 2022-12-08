@@ -4,3 +4,4 @@ A Lego transformou suas equipes em times Scrum auto organizados, que se reuniam 
 
 Com estimativas mais precisas, vêm resultados mais previsíveis. A Lego passou a ter maior controle sobre suas ações e seu forecast, podendo desenhar planos de negócio a longo-prazo com mais precisão.
 
+## Porque utilizou-se Scrum e não cascata?
